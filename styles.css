@@ -1,0 +1,135 @@
+
+
+.headername
+{
+  position: relative;
+  left:800px;
+}
+
+.backgr
+{
+background-image: url(imagesmoh.jpg);
+width: 1400px;
+}
+
+.mohannam
+{
+  font-style: Cursive;
+}
+
+h1
+{
+  font-family: 'Sacramento',cursive;
+}
+
+.sign
+{
+  color: green;
+  margin-right:200px;
+  padding:200;
+}
+
+
+
+.sum {
+  color: SlateBlue;
+}
+
+.sec {
+  line-height: 30px;
+  background-color: LightGray;
+  padding: 50px;
+}
+.ibm{
+  width: 10%;
+float: right;
+}
+.forth{
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.educat{
+  float: left;
+  width: 10%;
+}
+.six{
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+  text-align: right;
+  text-decoration: none;
+}
+.contactme{
+  float: left;
+  width: 10%;
+}
+
+.five{
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.proj{
+  width: 10%;
+float: right;
+}
+
+a:hover{
+  color: red;
+}
+
+a{
+  text-decoration: none;
+}
+
+.thir {
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+
+
+  text-align: left;
+  text-decoration: none;
+}
+
+.btn{
+  .btn {
+  background: #3498db;
+  background-image: -webkit-linear-gradient(top, #3498db, #2980b9);
+  background-image: -moz-linear-gradient(top, #3498db, #2980b9);
+  background-image: -ms-linear-gradient(top, #3498db, #2980b9);
+  background-image: -o-linear-gradient(top, #3498db, #2980b9);
+  background-image: linear-gradient(to bottom, #3498db, #2980b9);
+  -webkit-border-radius: 28;
+  -moz-border-radius: 28;
+  border-radius: 28px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 39px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+}
+
+.seven{
+  line-height: 30px;
+  background-color: #6495ed;
+  padding: 50px;
+}
