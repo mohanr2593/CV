@@ -1,0 +1,112 @@
+.headername
+{
+  position: relative;
+  left:800px;
+}
+
+.headerimage
+{
+background-image: url(../images/headerimage.jpg);
+width: 1400px;
+}
+
+.headertext
+{
+  font-style: Cursive;
+}
+
+h1
+{
+  font-family: 'Sacramento',cursive;
+}
+
+.sign
+{
+  color: green;
+  margin-right:200px;
+  padding:200;
+}
+
+.professionalsummary {
+  color: SlateBlue;
+}
+
+.PROFESSIONAL {
+  line-height: 30px;
+  background-color: LightGray;
+  padding: 50px;
+}
+
+.imgworkexperience{
+  width: 10%;
+float: right;
+}
+
+.diveducation{
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.imgeducation{
+  float: right;
+  width: 10%;
+}
+
+.divcontactme{
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+  text-align: right;
+  text-decoration: none;
+}
+
+.imgcontactme{
+  float: left;
+  width: 10%;
+}
+
+.divprojectdetails{
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.imgprojectdetails{
+  width: 10%;
+float: right;
+}
+
+a:hover{
+  color: red;
+}
+
+a{
+  text-decoration: none;
+}
+
+.divworkexperience {
+  line-height: 30px;
+  background-color: #fff8dc;
+  padding: 50px;
+  text-align: left;
+  text-decoration: none;
+}
+
+.footer{
+  line-height: 30px;
+  background-color: #6495ed;
+  padding: 50px;
+}
+
+.hidden {
+  display: none;
+}
+
+.cursorpointer{
+  cursor: pointer;
+}
