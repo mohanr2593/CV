@@ -1,30 +1,25 @@
-.headername
-{
+.headername {
   position: relative;
-  left:750px;
+  left: 750px;
 }
 
-.headerimage
-{
-background-image: url(../images/headerimage.jpg);
-width: 1345px;
+.headerimage {
+  background-image: url(../images/headerimage.jpg);
+  width: 1345px;
 }
 
-.headertext
-{
+.headertext {
   font-style: Cursive;
 }
 
-h1
-{
-  font-family: 'Sacramento',cursive;
+h1 {
+  font-family: 'Sacramento', cursive;
 }
 
-.sign
-{
+.sign {
   color: green;
-  margin-right:200px;
-  padding:200;
+  margin-right: 200px;
+  padding: 200;
 }
 
 .professionalsummary {
@@ -37,12 +32,12 @@ h1
   padding: 50px;
 }
 
-.imgworkexperience{
+.imgworkexperience {
   width: 20%;
-float: right;
+  float: right;
 }
 
-.diveducation{
+.diveducation {
   line-height: 30px;
   background-color: #fff8dc;
   padding: 50px;
@@ -50,12 +45,12 @@ float: right;
   text-decoration: none;
 }
 
-.imgeducation{
+.imgeducation {
   float: right;
   width: 20%;
 }
 
-.divcontactme{
+.divcontactme {
   line-height: 30px;
   background-color: #fff8dc;
   padding: 50px;
@@ -63,12 +58,12 @@ float: right;
   text-decoration: none;
 }
 
-.imgcontactme{
+.imgcontactme {
   float: left;
   width: 8%;
 }
 
-.divprojectdetails{
+.divprojectdetails {
   line-height: 30px;
   background-color: #fff8dc;
   padding: 50px;
@@ -76,16 +71,16 @@ float: right;
   text-decoration: none;
 }
 
-.imgprojectdetails{
+.imgprojectdetails {
   width: 20%;
-float: right;
+  float: right;
 }
 
-a:hover{
+a:hover {
   color: red;
 }
 
-a{
+a {
   text-decoration: none;
 }
 
@@ -97,10 +92,10 @@ a{
   text-decoration: none;
 }
 
-.footer{
+.footer {
   text-align: center;
   line-height: 20px;
-  background-color: 	#f0f8ff;
+  background-color: #f0f8ff;
   padding: 25px;
 }
 
@@ -108,12 +103,9 @@ a{
   display: none;
 }
 
-.cursorpointer{
+.cursorpointer {
   cursor: pointer;
 }
-
-
-
 
 .dropbtn {
   background-color: #C0C0C0;
@@ -126,11 +118,11 @@ a{
 }
 
 .dropbtn:hover, .dropbtn:focus {
-  background-color:;
+  background-color: ;
 }
 
 .dropdown {
-  background-color:#C0C0C0 ;
+  background-color: #C0C0C0;
   position: relative;
 }
 
@@ -140,7 +132,7 @@ a{
   background-color: #f1f1f1;
   min-width: 110px;
   overflow: auto;
-  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
   z-index: 1;
 }
 
@@ -151,51 +143,45 @@ a{
   display: block;
 }
 
-.dropdown a:hover {background-color: #ddd;}
-
-.show {display: block;}
-
-
-
-
-
-
-.firstbox
-{
-width: 420px;
+.dropdown a:hover {
+  background-color: #ddd;
 }
 
-.secondbox
-{
+.show {
+  display: block;
+}
+
+.firstbox {
   width: 420px;
 }
 
-.thirdbox
-{
+.secondbox {
   width: 420px;
 }
 
+.thirdbox {
+  width: 420px;
+}
 
-
-
-
-.sslctext{
+.sslctext {
   text-align: center;
 }
-.puctext{
-    text-align: center;
-}
-.dergreetext{
-    text-align: center;
-    te
+
+.puctext {
+  text-align: center;
 }
 
-.contactmebody{
+.dergreetext {
+  text-align: center;
+  te
+}
+
+.contactmebody {
   background-color: #CCCCFF;
 }
 
-.profilepicture{
-   border-radius: 50%;
+.profilepicture {
+  border-radius: 50%;
 }
 
 .image-holder {
@@ -203,56 +189,59 @@ width: 420px;
   height: auto;
   position: absolute;
   left: 300px;
-  top: 200px; /* Or perhaps different coordinates */
+  top: 200px;
+  /* Or perhaps different coordinates */
   display: none;
 }
 
-
-.aboutmeheader{
-text-align: center;
+.aboutmeheader {
+  text-align: center;
 }
 
-.aboutmecontent{
+.aboutmecontent {
   column-count: 3;
   list-style-type: none;
 }
-.contactmecontact{
+
+.contactmecontact {
   column-count: 2;
   list-style-type: none;
 }
 
-.fa-brands{
+.fa-brands {
   height: 20px;
   width: 30px;
 }
-.aboutmebody{
-  background-color: #CCCCFF;
-}
-.degreebody{
-  background-color: #CCCCFF;
-}
-.gallerybody{
-    background-color: #CCCCFF;
-}
-.pucbody{
-background-color: #CCCCFF;
-}
-.sslcbody{
+
+.aboutmebody {
   background-color: #CCCCFF;
 }
 
+.degreebody {
+  background-color: #CCCCFF;
+}
 
-.contactmefacebookopen:hover, .contactmefacebookopen:focus  {
+.gallerybody {
+  background-color: #CCCCFF;
+}
+
+.pucbody {
+  background-color: #CCCCFF;
+}
+
+.sslcbody {
+  background-color: #CCCCFF;
+}
+
+.contactmefacebookopen:hover, .contactmefacebookopen:focus {
   cursor: pointer;
 }
 
-.contactmefacebookopen{
-cursor: pointer;
+.contactmefacebookopen {
+  cursor: pointer;
 }
 
-.gallerypics
-{
+.gallerypics {
   column-count: 2;
   list-style-type: none;
-
 }
