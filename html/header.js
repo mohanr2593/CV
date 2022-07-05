@@ -13,7 +13,7 @@ document.write(`
 
       </td>
       <td width="150">
-      <a href="aboutme.html"> <h4>About Me</h4></a>
+      <a href="aboutme.html"> <h4 style="color: blue;">About Me</h4></a>
       </td>
       <td width="150">
           <button onclick="myFunction()" class="dropbtn"> Education <i class="fas fa-angle-down"></i></button>
@@ -23,10 +23,10 @@ document.write(`
 <a href="degree.html">DEGREE</a>
       </td>
       <td width="150">
-      <a href="gallery.html"> <h4>Gallery</h4></a>
+      <a href="gallery.html"> <h4 style="color: blue;">Gallery</h4></a>
       </td>
       <td>
-      <a href="contactme.html"> <h4>Contact Me</h4></a>
+      <a href="contactme.html"> <h4 style="color: blue;">Contact Me</h4></a>
       </td>
     </tr>
   </table>

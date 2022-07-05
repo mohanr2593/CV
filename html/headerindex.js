@@ -15,20 +15,20 @@ document.write(`
 
                 </td>
                 <td width="150">
-                <a href="html/aboutme.html"> <h4>About Me</h4></a>
+                <a href="html/aboutme.html"> <h4 style="color: blue;">About Me</h4></a>
                 </td>
                 <td width="150">
-                  <button onclick="myFunction()" class="dropbtn"> Education <i class="fas fa-angle-down"></i></button>
+                <button onclick="myFunction()" class="dropbtn"> Education <i class="fas fa-angle-down"></i></button>
           <div id="myDropdown" class="dropdown-content">
           <a href="html/sslc.html">SSLC</a>
           <a href="html/puc.html">PUC</a>
           <a href="html/degree.html">DEGREE</a>
                 </td>
                 <td width="150">
-                <a href="html/gallery.html"> <h4>Gallery</h4></a>
+                <a href="html/gallery.html"> <h4 style="color: blue;">Gallery</h4></a>
                 </td>
                 <td>
-                <a href="html/contactme.html"> <h4>Contact Me</h4></a>
+                <a href="html/contactme.html"> <h4 style="color: blue;">Contact Me</h4></a>
                 </td>
               </tr>
             </table>
